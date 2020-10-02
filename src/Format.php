@@ -11,3 +11,5 @@ class Format{
         return strtolower($value);
     }
 }
+
+// composer init para crear composer.json
